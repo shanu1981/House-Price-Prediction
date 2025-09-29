@@ -38,3 +38,29 @@ This project showcases a **practical application of machine learning** by taking
 Clone the repository:
 ```bash
 git clone https://github.com/shanu1981/House-Price-Prediction.git
+
+```
+Navigate to the project directory:
+```bash
+cd house-price-prediction
+```
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## 📊 Results
+
+### Linear Regression
+
+<img width="916" height="682" alt="image" src="https://github.com/user-attachments/assets/6bc08cd6-f3b1-43f7-8158-557c41a02279" />
+
+<img width="390" height="113" alt="image" src="https://github.com/user-attachments/assets/40a7a5e7-5798-4be3-86fe-0b52f3b7d707" />
+
+### Random Forest Regression
+
+<img width="900" height="676" alt="image" src="https://github.com/user-attachments/assets/5e4b2f68-c733-47b1-a798-9365363b1157" />
+
+<img width="401" height="121" alt="image" src="https://github.com/user-attachments/assets/b2efc887-2dfd-4674-9e81-12902f5145e2" />
+
